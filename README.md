@@ -30,5 +30,4 @@ pip install -r Data/requirements.txt
 python main.py
 ```
 
-## Auteur
-Abd Elkarim Haddad — Master Informatique, Université de Rouen Normandie
+
