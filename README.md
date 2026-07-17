@@ -1,33 +1,78 @@
-# NLP & Data Science — Classification de textes et modèles prédictifs
+# 🧠 NLP & Data Science Projects
 
-Projets d'analyse de données et de traitement du langage naturel réalisés en Master Sciences des Données & NLP (2024-2025).
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-green)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## Contenu
+## 📌 Overview
 
-### Application NLP (Backend / Frontend)
-Application de traitement de texte avec API Python :
-- `Backend/preprocessing.py` — nettoyage et préparation des textes
-- `Backend/nlp_tasks.py` — tâches NLP (tokenisation, vectorisation, classification)
-- `Backend/api.py` — exposition des traitements via API
-- `Frontend/app.py` — interface utilisateur
+This repository contains a collection of **Natural Language Processing (NLP)** and **Data Science** experiments developed with Python.
 
-### Notebooks
-| Notebook | Sujet |
-|----------|-------|
-| `classification-20newsgroups.ipynb` | Classification de 18 000 articles (20 Newsgroups) : nettoyage, TF-IDF, K-NN, analyse des métriques (précision, rappel, F1) |
-| `prediction-diabete.ipynb` | Modèle prédictif sur données médicales réelles (scikit-learn) |
-| `reconnaissance-chiffres-manuscrits.ipynb` | Reconnaissance de chiffres manuscrits par apprentissage supervisé |
+The main objective of this project is to explore and implement different techniques used in Artificial Intelligence, Machine Learning, and Text Processing.
 
-## Stack
-Python · pandas · NumPy · scikit-learn · NLTK · Matplotlib
+This repository serves as a learning resource and experimentation platform for developers, students, and AI enthusiasts interested in understanding how data-driven approaches can be applied to language-related problems.
 
-## Installation
+---
 
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r Data/requirements.txt
-python main.py
-```
+## 🎯 Objectives
 
+The goals of this project are:
 
+- Explore Natural Language Processing concepts
+- Apply Machine Learning algorithms to real-world datasets
+- Experiment with text preprocessing techniques
+- Build practical AI and Data Science workflows
+- Document experiments and results
+- Create reusable examples for learning and future development
+
+---
+
+## 🚀 Features
+
+Currently, the project includes experiments related to:
+
+### 📝 Text Processing
+- Text cleaning and preprocessing
+- Tokenization
+- Stop words removal
+- Text normalization
+- Feature extraction
+
+### 🤖 Machine Learning
+- Data preparation pipelines
+- Model training experiments
+- Evaluation techniques
+- Classification approaches
+
+### 📊 Data Analysis
+- Dataset exploration
+- Data visualization
+- Statistical analysis
+- Result interpretation
+
+---
+
+## 🛠️ Technologies Used
+
+### Programming Language
+- Python
+
+### Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+### NLP
+- NLTK
+- SpaCy
+- Text processing libraries
+
+### Development Tools
+- Jupyter Notebook
+- Git & GitHub
+
+---
+
+## 📂 Project Structure
